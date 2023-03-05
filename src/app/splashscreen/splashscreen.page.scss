@@ -1,0 +1,42 @@
+
+.content_splash
+{
+    background: linear-gradient(154.64deg, #FFFFFF -3.78%, #F1F1F1 109.19%), #C4C4C4;
+}
+
+
+.content_img
+{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 25%;
+    padding: 5px;
+ 
+}
+
+img
+{
+    width: 269px;
+    height: 269px;
+    margin-bottom: 10px;
+     position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+
+}
+
+h1
+{
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 900;
+   font-size: 58px;
+   line-height: 68px;
+//    letter-spacing: 0.215em;
+   color: #384D80;
+   width: 100%;
+   text-align: center;
+   margin-top: 0px;
+}
+

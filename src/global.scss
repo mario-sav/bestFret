@@ -24,3 +24,24 @@
 @import "~@ionic/angular/css/text-alignment.css";
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
+
+
+
+.opt_input
+{
+    align-items: center !important;
+    padding: 14px !important;
+    height: 56px !important;
+    width: 56px !important;
+    margin-right: 15px !important;
+    background: #FFFFFF !important;
+    border: 1px solid #D9D9D9 !important;
+    border-radius: 8px !important;
+}
+
+.opt_input_solo
+{
+    height: 60px !important;
+    width: 100% !important;
+   
+}
